@@ -28,7 +28,7 @@
 
  > 下载链接文字可用于附加图标和关键字筛选：如`下载`即非社区版，`不可用`带⛔，`特殊`带⚠️意为启用须遵照文档步骤。
 
-### 插件信息 (489)
+### 插件信息 (492)
 
 ###### TeStore会使用下表“名称”创建文件夹，“版本”数字判断升级，请尽量确保文本准确，按字母排序，简介便于关键字搜索。
 ```
@@ -150,8 +150,9 @@
 [CreativeCommons](https://github.com/zhangpeng96/typecho-creative-commons) | 文末自动加知识共享版权声明插件 | 0.6.2 | [zhangpeng96](https://github.com/zhangpeng96) | [下载](https://github.com/zhangpeng96/typecho-creative-commons/archive/master.zip)
 [Creole](https://github.com/typecho/plugins/tree/master/Creole) | Wiki式Creole写作语法解析器插件 | 0.2 | [明城](https://github.com/mingcheng) | [下载](https://github.com/typecho-fans/plugins/releases/download/plugins-A_to_C/Creole.zip)
 [CustomCssAndJs](https://github.com/kyuuseiryuu/typecho-plugin-custom-css-js) | 输出定制头部Css或尾部Js代码插件 | 1.0 | [KyuuSeiryuu](https://github.com/kyuuseiryuu) | [下载](https://github.com/kyuuseiryuu/typecho-plugin-custom-css-js/archive/master.zip)
-[CustomRSS](https://github.com/ibluehe/CustomRSS) | Typecho生成rss.xml的RSS订阅 | 1.0.1 | [蓝河](https://bluehe.cn/) | [下载](https://github.com/ibluehe/CustomRSS/archive/refs/heads/main.zip)
-[CustomRSS](https://github.com/ibluehe/CustomRSS) | 生成rss.xml格式RSS订阅 | 1.0.1 | [蓝河](https://bluehe.cn/) | [下载](https://github.com/ibluehe/CustomRSS/archive/refs/heads/main.zip)
+[CustomRSS](https://github.com/ibluehe/CustomRSS) | Typecho生成rss.xml的RSS订阅 | 1.0.3 | [寻鹤](https://bluehe.cn/) | [最近](https://github.com/ibluehe/CustomRSS/archive/refs/heads/main.zip)
+[CustomRSS](https://github.com/ibluehe/CustomRSS) | 生成rss.xml格式RSS订阅 | 1.0.3 | [寻鹤](https://bluehe.cn/) | [Latest](https://github.com/ibluehe/CustomRSS/archive/refs/heads/main.zip)
+[CustomRSS](https://github.com/ibluehe/CustomRSS) | 生成rss.xml格式RSS订阅 | 1.0.3 | [寻鹤](https://bluehe.cn/) | [最近](https://github.com/ibluehe/CustomRSS/archive/refs/heads/main.zip)
 [DDSBLinks](https://github.com/Nyarime/DDSBLinks) | [DD.SB](https://dd.sb)短链接版跳转外链转换插件 | 1.1.0 b2 | [BBleae](https://baka.studio) & [Nyarime](https://github.com/Nyarime) | [下载](https://github.com/Nyarime/DDSBLinks/archive/master.zip)
 [DPlayer](https://github.com/MoePlayer/DPlayer-Typecho) | 全能音视频播放器插件(支持弹幕) | 1.1.1 | [Volio](https://github.com/volio) | [下载](https://github.com/MoePlayer/DPlayer-Typecho/archive/master.zip)
 [DarkReader](https://github.com/jackytsu/typecho-darkreader) | [Dark Reader](https://darkreader.org)关灯效果阅读器插件 | 1.0.0 | [南宫小骏](https://github.com/jackytsu) | [下载](https://github.com/jackytsu/typecho-darkreader/archive/master.zip)
@@ -274,9 +275,9 @@
 [Maintain](https://xiamp.net/archives/23.html) | Typecho全局维护模式插件(免费版) | 1.0.1 | [Ryan](https://github.com/benzBrake) | [下载](https://github.com/typecho-fans/plugins/releases/download/plugins-M_to_R/Maintain.zip)
 [MarkdownIFrame](https://github.com/youngzhaojia/typecho-plugins) | 系统[MD](https://baike.baidu.com/item/markdown/3245829)编辑器添加Iframe按钮插件 | 1.0.0 | [youngzhaojia](https://github.com/youngzhaojia) | [下载](https://github.com/typecho-fans/plugins/releases/download/plugins-M_to_R/MarkdownIFrame.zip)
 [MarkdownKatex](https://github.com/zyuzhi/MarkdownKatex-typecho) | [ParsedownExtra](https://github.com/erusev/parsedown-extra)+[KaTeX](https://github.com/Khan/KaTeX)解析插件 | 1.0.1 | [zyuzhi](https://github.com/zyuzhi) | [下载](https://github.com/zyuzhi/MarkdownKatex-typecho/archive/master.zip)
-[MarkdownParse](https://github.com/mrgeneralgoo/typecho-markdown) | CommonMark+GFM全能Markdown解析 | 2.5.1 | [mrgeneral](https://github.com/mrgeneralgoo) | [Newest](https://github.com/typecho-fans/plugins/releases/download/plugins-M_to_R/MarkdownParse.zip)
-[MarkdownParse](https://github.com/mrgeneralgoo/typecho-markdown) | CommonMark+GFM全能Markdown解析插件 | 2.5.1 | [mrgeneral](https://github.com/mrgeneralgoo) | [最新](https://github.com/typecho-fans/plugins/releases/download/plugins-M_to_R/MarkdownParse.zip)
-[MarkdownParse](https://github.com/mrgeneralgoo/typecho-markdown) | Markdown解析(MathJax+Mermaid+目录) | 2.5.1 | [mrgeneral](https://github.com/mrgeneralgoo) | [最新](https://github.com/typecho-fans/plugins/releases/download/plugins-M_to_R/MarkdownParse_.zip)
+[MarkdownParse](https://github.com/mrgeneralgoo/typecho-markdown) | CommonMark+GFM全能Markdown解析 | 2.5.1 | [mrgeneral](https://github.com/mrgeneralgoo) | [NewVer](https://github.com/typecho-fans/plugins/releases/download/plugins-M_to_R/MarkdownParse.zip)
+[MarkdownParse](https://github.com/mrgeneralgoo/typecho-markdown) | CommonMark+GFM全能Markdown解析插件 | 2.5.1 | [mrgeneral](https://github.com/mrgeneralgoo) | [新版](https://github.com/typecho-fans/plugins/releases/download/plugins-M_to_R/MarkdownParse.zip)
+[MarkdownParse](https://github.com/mrgeneralgoo/typecho-markdown) | Markdown解析(MathJax+Mermaid+目录) | 2.5.1 | [mrgeneral](https://github.com/mrgeneralgoo) | [新版](https://github.com/typecho-fans/plugins/releases/download/plugins-M_to_R/MarkdownParse_.zip)
 [Markdown](https://jiongks.name/blog/plugin-markdown) | 简易版Markdown解析+编辑器插件 | 1.1.1 | [勾三股四](https://jiongks.name) | [不可用](https://github.com/typecho-fans/plugins/releases/download/plugins-M_to_R/Markdown.zip)
 [MaterialPlayer](https://github.com/xxyangyoulin/typecho_plugin_material_player) | 可悬浮简洁风质感音乐播放器插件 | 1.0.0 | [xxyangyoulin](https://github.com/xxyangyoulin) | [下载](https://github.com/xxyangyoulin/typecho_plugin_material_player/archive/master.zip)
 [MathJax](https://github.com/typecho/plugins/blob/master/MathJax.php) | 基于CDN的[MathJax](https://www.mathjax.org)公式渲染插件 | 1.0.0 | [mutoo](https://github.com/mutoo) | [下载](https://github.com/typecho-fans/plugins/releases/download/plugins-M_to_R/MathJax.zip)
@@ -284,8 +285,8 @@
 [Mcode](https://github.com/0x50j/Mcode) | 明哥登录验证码插件(支持白名单) | 2.1.0 | [Mingo](https://github.com/0x50j) | [特殊](https://github.com/0x50j/Mcode/archive/master.zip)
 [MemorialDay](https://github.com/sy-records/MemorialDay) | 公祭哀悼日网站应用灰色滤镜插件 | 1.1.0 | [沈唁](https://github.com/sy-records) | [下载](https://github.com/sy-records/MemorialDay/archive/master.zip)
 [MemoryUsage](https://plugins.typecho.me/plugins/memory-usage.html) | 后台显示或前台输出内存占用插件 | 1.0.0 | [doudou](https://github.com/doudoutime) | [下载](https://github.com/typecho-fans/plugins/releases/download/plugins-M_to_R/MemoryUsage.zip)
-[Memos](https://github.com/fengqi/typecho-memos) | Memos列表读取插件 | 0.0.1 | [fengqi](https://github.com/fengqi) | [下载](https://github.com/fengqi/typecho-memos/archive/refs/tags/v0.0.1.zip)
-[Memos](https://github.com/fengqi/typecho-memos) | OpenAPI Memos列表读取 | 0.0.1 | [fengqi](https://github.com/fengqi) | [Newest](https://github.com/fengqi/typecho-memos/archive/refs/tags/v0.1.0.zip)
+[Memos](https://github.com/fengqi/typecho-memos) | Memos列表读取插件 | 0.0.1 | [fengqi](https://github.com/fengqi) | [最新](https://github.com/fengqi/typecho-memos/archive/refs/tags/v0.0.1.zip)
+[Memos](https://github.com/fengqi/typecho-memos) | OpenAPI Memos列表读取 | 0.0.1 | [fengqi](https://github.com/fengqi) | [NewVer](https://github.com/fengqi/typecho-memos/archive/refs/tags/v0.1.0.zip)
 [Messages](https://github.com/kraity/Messages) | [南博](https://nabo.krait.cn)App用实时消息推送模块插件 | 1.0 | [权那他](https://github.com/kraity) | [下载](https://github.com/kraity/Messages/archive/master.zip)
 [MetaPlus](https://github.com/mrasong/metaplus-for-typecho) | 在分类标签页面输出定制数据插件 | 1.0.0 | [mrasong](https://github.com/mrasong) | [下载](https://github.com/mrasong/metaplus-for-typecho/archive/master.zip)
 [Meting](https://github.com/MoePlayer/APlayer-Typecho) | 五大云音乐平台API播放器插件 | 2.1.2 | [METO](https://github.com/metowolf) | [下载](https://github.com/MoePlayer/APlayer-Typecho/archive/master.zip)
@@ -471,8 +472,8 @@
 [ViewsCounter](https://github.com/Quarkay/Typecho-ViewsCounter) | 统计文章浏览次数并显示排行插件 | 1.0.0 | [Quarkay](https://github.com/Quarkay) | [下载](https://github.com/Quarkay/Typecho-ViewsCounter/archive/master.zip)
 [WTS](https://github.com/shiyeshu/WTS) | 仿ACFUN气泡通知首页公告插件 | 1.0.0 | [阿硕](https://github.com/shiyeshu) | [下载](https://github.com/shiyeshu/WTS/archive/master.zip)
 [WeBlog](https://github.com/thinkmoon/WeBlog) | WeBlog微信QQ小程序搭建插件 | 0.1.9 | [醉月思](https://github.com/thinkmoon) | [特殊](https://github.com/thinkmoon/WeBlog/archive/master.zip)
-[WeChatHelper](https://github.com/QuellaMC/WeChatHelper) | 增强版微信公众平台功能集成插件 | 5.5.5 | [光辉之路MC](https://github.com/QuellaMC) | [最近](https://github.com/QuellaMC/WeChatHelper/archive/master.zip)
-[WeChatHelper](https://github.com/ledccn/WeChatHelper) | 修改版微信助手插件(需Redis缓存) | 2.3.0 | [大卫科技Blog](https://github.com/ledccn) | [最近](https://github.com/ledccn/WeChatHelper/archive/master.zip)
+[WeChatHelper](https://github.com/QuellaMC/WeChatHelper) | 增强版微信公众平台功能集成插件 | 5.5.5 | [光辉之路MC](https://github.com/QuellaMC) | [下载](https://github.com/QuellaMC/WeChatHelper/archive/master.zip)
+[WeChatHelper](https://github.com/ledccn/WeChatHelper) | 修改版微信助手插件(需Redis缓存) | 2.3.0 | [大卫科技Blog](https://github.com/ledccn) | [下载](https://github.com/ledccn/WeChatHelper/archive/master.zip)
 [WeChatNotice](https://github.com/zgcwkjOpenProject/Typecho_Plugins_WeChatNotice) | 文章评论推送自建微信公众号插件 | 1.0.0 | [zgcwkj](https://github.com/zgcwkjOpenProject) | [下载](https://github.com/zgcwkjOpenProject/Typecho_Plugins_WeChatNotice/archive/master.zip)
 [WeMedia](https://github.com/muzishanshi/WeMediaForTypecho) | Typecho积分商城版付费阅读插件 | 1.0.16 | [二呆](https://github.com/muzishanshi) | [下载](https://github.com/muzishanshi/WeMediaForTypecho/archive/master.zip)
 [WeTypecho](https://github.com/MingliangLu/WeTypecho) | 多功能Typecho微信小程序版插件 | 0.1 | [成都第七帅](https://github.com/MingliangLu) | [特殊](https://github.com/MingliangLu/WeTypecho/archive/master.zip)
